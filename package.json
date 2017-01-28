@@ -1,0 +1,7 @@
+{
+  "name": "SocialCopsData",
+  "private": true,
+  "scripts": {
+    "start": "npm start"
+  }
+}
